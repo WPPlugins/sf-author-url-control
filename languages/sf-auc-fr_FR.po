@@ -1,0 +1,84 @@
+# LANGUAGE French translation for SF Author Url Control plugin for WordPress.
+# Grégory Viguier.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sf-auc 1.0\n"
+"Report-Msgid-Bugs-To: http://www.screenfeed.fr\n"
+"POT-Creation-Date: 2012-04-14 05:19+0100\n"
+"PO-Revision-Date: 2012-04-15 20:36+0100\n"
+"Last-Translator: Grégory Viguier <screenfeed@gmail.com>\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+
+#: sf-auc-admin.inc.php:70
+msgid "Authors page base"
+msgstr "Préfixe des pages auteur"
+
+#: sf-auc-admin.inc.php:81
+msgid " (%s? Seriously?)"
+msgstr " (%s? Sérieux?)"
+
+#: sf-auc-admin.inc.php:85
+msgid " (for a page)"
+msgstr " (pour une page)"
+
+#: sf-auc-admin.inc.php:89
+msgid " (for a taxonomy)"
+msgstr " (pour une taxonomie)"
+
+#: sf-auc-admin.inc.php:93
+msgid " (for a custom post type archive page)"
+msgstr " (pour une page d&#8217;archive de contenu personnalisé)"
+
+#: sf-auc-admin.inc.php:97
+msgid " (for a post)"
+msgstr " (pour un article)"
+
+#: sf-auc-admin.inc.php:101
+msgid " (for a custom post type)"
+msgstr " (pour un type de contenu personnalisé)"
+
+#: sf-auc-admin.inc.php:175
+msgid "Leave empty for default value: author"
+msgstr "Laisser vide pour la valeur par défaut : author"
+
+#: sf-auc-admin.inc.php:201
+msgid "Profile URL slug"
+msgstr "Identifiant de l&#8217;url du profil"
+
+#: sf-auc-admin.inc.php:202
+msgid "Leave empty for default value: %s"
+msgstr "Laisser vide pour la valeur par défaut : %s"
+
+#: sf-auc-admin.inc.php:239
+msgid "<strong>ERROR</strong>: There was an error updating the author slug. Please try again."
+msgstr "<strong>ERREUR</strong>: Il s&#8217;est produit une erreur durant la mise à jour de l&#8217;identifiant d&#8217;url de profil. Merci de réessayer."
+
+#: sf-auc-admin.inc.php:243
+msgid "<strong>ERROR</strong>: This profile URL slug is already registered. Please choose another one."
+msgstr "<strong>ERREUR</strong>: Cet identifiant d&#8217;url de profil est déjà enregistré. Merci d&#8217;en choisir un autre."
+
+#: sf-auc-admin.inc.php:252
+msgid "<strong>SF Author Url Control</strong>: Now you can go to Settings &#8250; %1$sPermalinks</a> to change the authors base url. Also, go to %2$sUsers</a> and chose a user profile, %3$slike your own</a>, for the user&#8217;s slug."
+msgstr "<strong>SF Author Url Control</strong>: Maintenant vous pouvez aller dans Réglages &#8250; %1$sPermaliens</a> pour changer le préfixe des pages auteur. Allez aussi dans %2$sUtilisateurs</a> et choisissez un profil d&#8217;utilisateur, %3$scomme le votre</a>, pour changer son identifiant d&#8217;url."
+
+#: sf-auc-admin.inc.php:259
+msgid "<strong>ERROR</strong>: This authors page base is already used somewhere else%s. Please choose another one."
+msgstr "<strong>ERREUR</strong>: Ce préfixe des pages auteur est déjà utilisé ailleurs%s. Merci d&#8217;en choisir un autre."
+
+#: sf-auc-admin.inc.php:270
+msgid "URL slug"
+msgstr "Identifiant d&#8217;url"
+
+#: sf-auc-admin.inc.php:282
+msgid "Empty slug!"
+msgstr "Identifiant vide !"
+

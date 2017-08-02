@@ -1,0 +1,102 @@
+# LANGUAGE French translation for SF Author Url Control plugin for WordPress.
+# Grégory Viguier.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sf-auc 1.0\n"
+"Report-Msgid-Bugs-To: http://www.screenfeed.fr\n"
+"POT-Creation-Date: 2012-04-14 05:19+0100\n"
+"PO-Revision-Date: 2013-06-23 17:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: sf-auc-admin.inc.php:70
+msgid "Authors page base"
+msgstr "Autoren-Basis"
+
+#: sf-auc-admin.inc.php:81
+msgid " (%s? Seriously?)"
+msgstr " (%s? Ernsthaft?)"
+
+#: sf-auc-admin.inc.php:85
+msgid " (for a page)"
+msgstr " (für eine Seite)"
+
+#: sf-auc-admin.inc.php:89
+msgid " (for a taxonomy)"
+msgstr " (für eine Taxonomie)"
+
+#: sf-auc-admin.inc.php:93
+msgid " (for a custom post type archive page)"
+msgstr " (für eine benutzerdefinierte Beitragstyp-Archivseite)"
+
+#: sf-auc-admin.inc.php:97
+msgid " (for a post)"
+msgstr " (für einen Beitrag)"
+
+#: sf-auc-admin.inc.php:101
+msgid " (for a custom post type)"
+msgstr " (für einen benutzerdefinierten Beitragstyp)"
+
+#: sf-auc-admin.inc.php:175
+msgid "Leave empty for default value: author"
+msgstr "Leer lassen für den Standardwert: author"
+
+#: sf-auc-admin.inc.php:201
+msgid "Profile URL slug"
+msgstr "Profil-URL"
+
+#: sf-auc-admin.inc.php:202
+msgid "Leave empty for default value: %s"
+msgstr "Leer lassen für den Standardwert : %s"
+
+#: sf-auc-admin.inc.php:239
+msgid ""
+"<strong>ERROR</strong>: There was an error updating the author slug. Please "
+"try again."
+msgstr ""
+"<strong>FEHLER</strong>: Es ist ein Fehler beim updaten der Autoren-Basis "
+"aufgetreten. Bitte versuche es nochmal."
+
+#: sf-auc-admin.inc.php:243
+msgid ""
+"<strong>ERROR</strong>: This profile URL slug is already registered. Please "
+"choose another one."
+msgstr ""
+"<strong>FEHLER</strong>: Diese Profil-URL ist bereits registriert. Bitte "
+"wähle eine andere."
+
+#: sf-auc-admin.inc.php:252
+msgid ""
+"<strong>SF Author Url Control</strong>: Now you can go to Settings &#8250; "
+"%1$sPermalinks</a> to change the authors base url. Also, go to %2$sUsers</a> "
+"and chose a user profile, %3$slike your own</a>, for the user&#8217;s slug."
+msgstr ""
+"<strong>SF Author Url Control</strong>: Du kannst jetzt zu Einstellungen "
+"&#8250; %1$sPermalinks</a> gehen um die Autoren-Basis zu ändern. Gehe auch "
+"zu %2$sUsers</a> und wähle für ein Userprofil, %3$wie dein eigenes</a>, die "
+"Profil-URL aus."
+
+#: sf-auc-admin.inc.php:259
+msgid ""
+"<strong>ERROR</strong>: This authors page base is already used somewhere else"
+"%s. Please choose another one."
+msgstr ""
+"<strong>FEHLER</strong>: Diese Autoren-Basis wird bereits irgendwo anders "
+"benutzt. Bitte wähle eine andere aus."
+
+#: sf-auc-admin.inc.php:270
+msgid "URL slug"
+msgstr "URL"
+
+#: sf-auc-admin.inc.php:282
+msgid "Empty slug!"
+msgstr "Keine Angabe gemacht!"
